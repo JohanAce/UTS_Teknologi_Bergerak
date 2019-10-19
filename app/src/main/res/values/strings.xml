@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTS Tekber</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Jonathan Graciano</string>
+    <string name="nav_header_subtitle">jonathangraciano113@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="detail">Detail Buku</string>
+
+
+    <string name="buku1">Menjadi Harry Potter memang sulit dan sekarang pun tidak lebih mudah ketika ia menjadi pegawai Kementerian Sihir yang kelelahan, suami, dan ayah tiga anak usia sekolah. Sementara Harry berjuang menghadapi masa lalu yang mengikutinya, putra bungsunya, Albus, harus berjuang menghadapi beban warisan keluarga yang tak pernah ia inginkan. Ketika masa lalu dan masa sekarang melebur, ayah dan anak pun mengetahui fakta yang tidak menyenangkan: terkadang kegelapan datang dari tempat-tempat yang tak terduga.</string>
+    <string name="harry">Harry Potter and Cursed Child </string>
+    <string name="percy">Percy Jackson The Sea of Monster</string>
+    <string name="laskar">Laskar Pelangi</string>
+    <string name="perahu">Perahu Kertas</string>
+    <string name="sang">Sang Pemimpi</string>
+    <string name="menara">Negeri 5 Menara</string>
+    <string name="communicate">Communicate</string>
+</resources>
